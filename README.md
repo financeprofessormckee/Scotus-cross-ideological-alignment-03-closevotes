@@ -1,7 +1,7 @@
 # SCOTUS Cross‑Ideological Alignment — Part 3 (Closely Divided Cases)
 
 Replication code for:  
-**“Who Crosses Over in Close Cases?”** <!-- TODO: replace with the published article title -->
+**“Who Crosses Over in Close Cases?”**
 
 This repository reproduces the Part 3 analysis of cross‑ideological voting behavior among Supreme Court justices from the 2020 Term through the 2024 Term, restricting attention to closely divided cases.
 
