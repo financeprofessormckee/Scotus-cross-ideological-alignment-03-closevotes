@@ -24,19 +24,19 @@ cd "`c(pwd)'"
 * Step 1: Build Pairwise Datasets
 * ------------------------------------------------------------
 
-do "01_build_pairwise_data.do"
+do "code/01_build_pairwise_data.do"
 
 * ------------------------------------------------------------
 * Step 2: Conservative Justice Analysis
 * ------------------------------------------------------------
 
-do "02_conservative_analysis.do"
+do "code/02_conservative_analysis.do"
 
 * ------------------------------------------------------------
 * Step 3: Liberal Justice Analysis
 * ------------------------------------------------------------
 
-do "03_liberal_analysis.do"
+do "code/03_liberal_analysis.do"
 
 * ------------------------------------------------------------
 * End of Master File
